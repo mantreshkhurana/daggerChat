@@ -13,6 +13,7 @@ A blockchain-based secure chat application with end-to-end encryption and a term
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
 - [Smart Contract](#smart-contract)
 - [Security](#security)
 - [Project Structure](#project-structure)
@@ -92,7 +93,6 @@ LOG_LEVEL=info
 
 | Key | Action |
 |-----|--------|
-
 | `Tab` | Switch between sidebar and chat |
 | `j/k` or `↑/↓` | Navigate conversations/messages |
 | `Enter` | Select conversation / Send message |
